@@ -1,5 +1,6 @@
 ---
 title: James-Sec
+description: James-Sec collection of projects and blogs.
 layout: default
 ---
 
