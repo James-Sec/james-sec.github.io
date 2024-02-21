@@ -14,5 +14,5 @@ A two-person team consisting of [Joao Andreotti][github-io-joaoandreotti] and [J
 </ul>
 
 
-[github-io-joaoandreotti]: <joaoandreotti.github.io> "joaoandreotti github"
-[ufpr-jorge-correia]: <www.inf.ufpr.br/jpcorreia> "jorge-correia UFPR page"
+[github-io-joaoandreotti]: <https://joaoandreotti.github.io> "joaoandreotti github"
+[ufpr-jorge-correia]: <https://www.inf.ufpr.br/jpcorreia> "jorge-correia UFPR page"
